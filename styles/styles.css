@@ -1,16 +1,10 @@
 body {
 
     display: flex;
-    align-items: center;
     justify-content: center;
-  
-}
-
-#container {
-
-    border-style: double;
-    border-width: 1px;
-    border-color: black;
-    padding: 1rem;
+    align-content: center;
+    height: 100vh;
 
 }
+
+
